@@ -14,3 +14,10 @@ F:\ASPCase\ATouristInformationNetwork_89bdfc8f-e3b8-41ac-94fd-1f52312aa2f4\Data\
 F:\ASPCase\ATouristInformationNetwork_89bdfc8f-e3b8-41ac-94fd-1f52312aa2f4\Data\obj\Debug\TMS.csprojResolveAssemblyReference.cache
 F:\ASPCase\ATouristInformationNetwork_89bdfc8f-e3b8-41ac-94fd-1f52312aa2f4\Data\obj\Debug\TMS.dll
 F:\ASPCase\ATouristInformationNetwork_89bdfc8f-e3b8-41ac-94fd-1f52312aa2f4\Data\obj\Debug\TMS.pdb
+F:\ASPCase\CAP\Test\Data\bin\Debug\TMS.dll
+F:\ASPCase\CAP\Test\Data\bin\Debug\TMS.pdb
+F:\ASPCase\CAP\Test\Data\bin\Debug\Arrow.Framework.dll
+F:\ASPCase\CAP\Test\Data\bin\Debug\Arrow.Framework.pdb
+F:\ASPCase\CAP\Test\Data\obj\Debug\TMS.csprojResolveAssemblyReference.cache
+F:\ASPCase\CAP\Test\Data\obj\Debug\TMS.dll
+F:\ASPCase\CAP\Test\Data\obj\Debug\TMS.pdb

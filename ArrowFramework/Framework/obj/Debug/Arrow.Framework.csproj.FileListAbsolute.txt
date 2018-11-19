@@ -12,3 +12,9 @@ F:\ASPCase\ATouristInformationNetwork_89bdfc8f-e3b8-41ac-94fd-1f52312aa2f4\Arrow
 F:\ASPCase\ATouristInformationNetwork_89bdfc8f-e3b8-41ac-94fd-1f52312aa2f4\ArrowFramework\Framework\obj\Debug\Arrow.Framework.csprojResolveAssemblyReference.cache
 F:\ASPCase\ATouristInformationNetwork_89bdfc8f-e3b8-41ac-94fd-1f52312aa2f4\ArrowFramework\Framework\obj\Debug\Arrow.Framework.dll
 F:\ASPCase\ATouristInformationNetwork_89bdfc8f-e3b8-41ac-94fd-1f52312aa2f4\ArrowFramework\Framework\obj\Debug\Arrow.Framework.pdb
+F:\ASPCase\CAP\Test\ArrowFramework\Framework\bin\Debug\Arrow.Framework.dll
+F:\ASPCase\CAP\Test\ArrowFramework\Framework\bin\Debug\Arrow.Framework.pdb
+F:\ASPCase\CAP\Test\ArrowFramework\Framework\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\ASPCase\CAP\Test\ArrowFramework\Framework\obj\Debug\Arrow.Framework.csprojResolveAssemblyReference.cache
+F:\ASPCase\CAP\Test\ArrowFramework\Framework\obj\Debug\Arrow.Framework.dll
+F:\ASPCase\CAP\Test\ArrowFramework\Framework\obj\Debug\Arrow.Framework.pdb

@@ -4,7 +4,7 @@
     %>
         	<div class="top">
             	<div class="hot_phone">
-                	400-626-1012
+                	188-147-20947
                 </div>
                  <div class="navBar">
 			<ul class="nav1 clearfix">
